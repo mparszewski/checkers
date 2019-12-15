@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Cpp_projects/checkers/src/Board.h
+vector
+-
+Field.cpp
+/cygdrive/d/Cpp_projects/checkers/src/Field.cpp
+Pawn.h
+/cygdrive/d/Cpp_projects/checkers/src/Pawn.h
+PlayerPawn.h
+/cygdrive/d/Cpp_projects/checkers/src/PlayerPawn.h
+ProgramPawn.h
+/cygdrive/d/Cpp_projects/checkers/src/ProgramPawn.h
+
+/cygdrive/d/Cpp_projects/checkers/src/Field.cpp
+string
+-
+utility
+-
+
+/cygdrive/d/Cpp_projects/checkers/src/Pawn.h
+string
+-
+
+/cygdrive/d/Cpp_projects/checkers/src/PlayerPawn.h
+Pawn.h
+/cygdrive/d/Cpp_projects/checkers/src/Pawn.h
+
+/cygdrive/d/Cpp_projects/checkers/src/ProgramPawn.h
+Pawn.h
+/cygdrive/d/Cpp_projects/checkers/src/Pawn.h
+
+/cygdrive/d/Cpp_projects/checkers/src/main.cpp
+iostream
+-
+Board.h
+/cygdrive/d/Cpp_projects/checkers/src/Board.h
+

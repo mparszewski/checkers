@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/checkers.dir/src/main.cpp.o CMakeFiles/checkers.dir/src/Board.cpp.o CMakeFiles/checkers.dir/src/Pawn.cpp.o CMakeFiles/checkers.dir/src/PlayerPawn.cpp.o CMakeFiles/checkers.dir/src/ProgramPawn.cpp.o  -o checkers.exe -Wl,--out-implib,libcheckers.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
